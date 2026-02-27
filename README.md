@@ -153,19 +153,6 @@ public class Javohir implements Developer {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/Javohir004?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=Followers)
-![Stars](https://img.shields.io/github/stars/Javohir004?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=Total%20Stars)
-![Repos](https://img.shields.io/badge/Repositories-10-00D9FF?style=for-the-badge&labelColor=0d1117)
-![Commits](https://img.shields.io/badge/Commits%202026-241-00D9FF?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
