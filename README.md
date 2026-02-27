@@ -153,11 +153,14 @@ public class Javohir implements Developer {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Javohir004&theme=tokyonight&no-frame=true&margin-w=10&column=4"/>
+![Followers](https://img.shields.io/github/followers/Javohir004?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/Javohir004?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=Total%20Stars)
+![Repos](https://img.shields.io/badge/Repositories-10-00D9FF?style=for-the-badge&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/Commits%202026-241-00D9FF?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
