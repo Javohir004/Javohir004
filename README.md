@@ -157,7 +157,7 @@ public class Javohir implements Developer {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Javohir004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Javohir004&theme=darkhub&no-frame=true&margin-w=15&column=4"/>
 
 </div>
 
