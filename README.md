@@ -70,8 +70,8 @@ Professional pizza ordering system built with:
 
 ## 📫 Contact
 
-- LinkedIn: (your link here)
-- Email: (your email here)
+- LinkedIn: https://www.linkedin.com/in/javohir-sharifjonov-87132131a/
+- Email: javohirsharifjonov795@gmail.com
 
 ---
 
