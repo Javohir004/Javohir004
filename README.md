@@ -153,11 +153,11 @@ public class Javohir implements Developer {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Javohir004&theme=darkhub&no-frame=true&margin-w=15&column=4"/>
+<img src="https://raw.githubusercontent.com/Javohir004/Javohir004/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </div>
 
@@ -170,7 +170,7 @@ public class Javohir implements Developer {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javohir-sharifjonov-87132131a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Walker_004/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Javohir004)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Feniks004)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Feniks004)
 
 </div>
 
