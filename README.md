@@ -153,6 +153,16 @@ public class Javohir implements Developer {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Javohir004&theme=tokyonight&no-frame=true&margin-w=10&column=4"/>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
