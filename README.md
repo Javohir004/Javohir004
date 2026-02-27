@@ -135,9 +135,7 @@ public class Javohir implements Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Javohir004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&card_width=400"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javohir004&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Javohir004&cc=0d1117&tc=00D9FF&ic=fff&bc=0d1117"/>
 
 </div>
 
@@ -159,7 +157,7 @@ public class Javohir implements Developer {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Javohir004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Javohir004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
