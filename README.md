@@ -29,6 +29,13 @@ public class Javohir implements Developer {
     }
 }
 ```
+---
+
+## 🌐 Live Project
+
+🍕 **NextPizza**
+
+https://nextpizza-frontend-production.up.railway.app/
 
 ---
 
