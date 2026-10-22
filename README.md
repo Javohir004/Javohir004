@@ -186,7 +186,7 @@ https://nextpizza-frontend-production.up.railway.app/
 <div align="center">
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Javohir004&color=00D9FF&style=for-the-badge)
+![Profile Views](https://hits.sh/github.com/Javohir004.svg?style=for-the-badge&label=Profile%20Views&color=00D9FF)
 
 <!-- Bottom wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00D9FF&height=120&section=footer"/>
