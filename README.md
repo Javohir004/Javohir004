@@ -120,13 +120,13 @@ https://nextpizza-frontend-production.up.railway.app/
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🚗 AvtoElonUz Bot</h3>
+      <h3 align="center">🎬 Movie Bot</h3>
       <p align="center">
-        <a href="https://github.com/Javohir004/AvtoElonUz.Bot">
+        <a href="https://github.com/Javohir004/movie-bot">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p>Telegram bot orqali avtomobil e'lonlari xizmati — foydalanuvchilarga e'lon joylash va ko'rish imkonini beruvchi loyiha.</p>
+      <p>Kino, serial va anime qidiruv boti — Spring Boot + Telegram API. Fasl/qism navigatsiyasi, poster va ko'rishlar statistikasi, invite-based admin tizimi, majburiy obuna va broadcast funksiyalari.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
