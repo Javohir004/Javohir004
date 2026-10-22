@@ -152,12 +152,6 @@ https://nextpizza-frontend-production.up.railway.app/
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Javohir004&theme=tokyo-night&hide_border=true)
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
