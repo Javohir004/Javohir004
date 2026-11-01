@@ -17,7 +17,7 @@
 public class Javohir implements Developer {
 
     private final String name        = "Javohir Sharifjonov";
-    private final String role        = "Junior Java Backend Developer";
+    private final String role        = "Java Backend Developer";
     private final String company     = "Sistematic International";
     private final String location    = "Uzbekistan 🇺🇿";
     private final String[] learning  = {"Microservices", "Docker", "Redis"};
