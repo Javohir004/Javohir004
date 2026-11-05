@@ -150,7 +150,7 @@ Try it live: https://t.me/ReelsSaverUz_bot
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Javohir004&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </div>
 
