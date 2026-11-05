@@ -33,9 +33,11 @@ public class Javohir implements Developer {
 
 ## 🌐 Live Project
 
-🍕 **NextPizza**
+🤖 **ReelsSaverUz Bot**
 
-https://nextpizza-frontend-production.up.railway.app/
+[![Telegram Bot](https://img.shields.io/badge/Telegram-@ReelsSaverUz__bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ReelsSaverUz_bot)
+
+Try it live: https://t.me/ReelsSaverUz_bot
 
 ---
 
